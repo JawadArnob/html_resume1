@@ -45,8 +45,8 @@ body {
 .leftBottomBorder{
     height: 1px;
     width: 220px;
-    margin-left: 23px;
-    margin-right: 23px;
+    margin-left: 22px;
+    margin-right: 22px;
     background-color: var(--bordercolor);
 }
 .bodyContainer p {
@@ -76,20 +76,20 @@ a:hover{
 
 .image{
     height: 2in;
-    width: 2.8in;
+    width: 2.7in;
     margin: 10px auto;
     padding: 40px;
     
 }
 .image img{
-    height: 1.7in;
+    height: 1.6in;
     width: 1.8in;
     border-radius: 50%;
     padding: 5px;
 }
 
 .about{
-    height: 3.3in;
+    height: 3.18in;
     width: 2.8in;
     margin: 10px auto;
     padding: 20px ;
@@ -103,7 +103,7 @@ a:hover{
     font-weight: bolder;
 }
 .followMe{
-    height: 2.3in;
+    height: 2.2in;
     width: 2.8in;
     margin: 10px auto;
     padding: 20px ;
@@ -113,14 +113,14 @@ a:hover{
     color: rgb(66, 64, 64);
 }
 .reference{
-    height: 2.3in;
+    height: 2.2in;
     width: 2.8in;
     margin: 10px auto;
     padding: 20px ;
     color: var(--textcolor);
 }
 .language{
-    height: 1.3in;
+    height: 1.2in;
     width: 2.8in;
     margin: 10px auto;
     padding: 20px ;
@@ -409,7 +409,7 @@ p{
 /* skills starts */
 
 .skills{
-    height: 2.6in;
+    height: 2.4in;
     width: 5in;
     margin: 10px auto;
     padding-top: 20px ;
